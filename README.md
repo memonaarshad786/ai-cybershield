@@ -9,7 +9,7 @@
 | **Registration Number** | F25BINFT7M04007 |
 | **Degree Programme** | BS Information Technology (BSIT) |
 | **Department** | Department of Information Technology |
-| **University** | `[University name to be inserted]` |
+| **University** | The Islamia University of Bahawalpur |
 | **Project Supervisor** | Dr. Salman Latif |
 | **Academic Year** | 2026–2027 |
 | **Proposal Status** | Draft submitted for initial supervisor review |
