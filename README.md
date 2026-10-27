@@ -5,8 +5,8 @@
 | Item | Details |
 |---|---|
 | **Project Title** | AI CyberShield: Explainable AI-Based Phishing URL Detection |
-| **Student Name** | Muhammad Shahzad |
-| **Registration Number** | `[To be completed by student]` |
+| **Student Name** | MUHAMMAD SHAHZAD |
+| **Registration Number** | F25BINFT7M04007 |
 | **Degree Programme** | BS Information Technology (BSIT) |
 | **Department** | Department of Information Technology |
 | **University** | `[University name to be inserted]` |
@@ -607,8 +607,8 @@ I confirm that this proposal is my own work and that all sources used have been 
 
 | Field | Entry |
 |---|---|
-| Student Name | Muhammad Shahzad |
-| Registration Number | `____________________` |
+| Student Name | MUHAMMAD SHAHZAD |
+| Registration Number | F25BINFT7M04007 |
 | Signature | `____________________` |
 | Submission Date | `____ / ____ / ________` |
 
