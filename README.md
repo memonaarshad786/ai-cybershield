@@ -14,6 +14,13 @@
 | **Academic Year** | 2026–2027 |
 | **Proposal Status** | Draft submitted for initial supervisor review |
 
+### Project Documents
+
+| Document | Description |
+|---|---|
+| [Software Requirements Specification (SRS)](docs/AI_CyberShield_SRS_Final.docx) | Functional requirements FR001–FR009, non-functional requirements, use cases and activity diagrams |
+| [Software Design Document (SDD)](docs/AI_CyberShield_SDD_Final.docx) | Proposed architecture, API design, data model and user interface design |
+
 ---
 
 ## Table of Contents
